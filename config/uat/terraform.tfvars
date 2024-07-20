@@ -18,7 +18,7 @@ bo_fe_domain = "bo-fe.mbtwallet-uat.vip"
 bo_be_domain = "bo-be.mbtwallet-uat.vip"
 jobproc_domain = "jobproc.mbtwallet-uat.vip"
 #socket_domain  = "socket.mbtwallet-uat.vip"
-#cert_id = "52346-ap-southeast-1"
+cert_id = "102904-ap-southeast-1"
 
 // Back Office
 #bo_fe_ami_id = "aliyun_3_x64_20G_qboot_alibase_20230727.vhd"
