@@ -13,9 +13,9 @@ az_b = "ap-southeast-1b"
 
 // domains
 gl_fe_domain = "encoregames.live"
-gl_be_domain = "gl-be.encoregames.live"
+gl_be_domain = "uat-api.encoregames.live"
 bo_fe_domain = "bo-fe.encoregames.live"
-bo_be_domain = "bo-be.encoregames.live"
+bo_be_domain = "dev-api.encoregames.live"
 jobproc_domain = "jobproc.encoregames.live"
 #socket_domain  = "socket.mbtwallet-uat.vip"
 cert_id = "102904-ap-southeast-1"
